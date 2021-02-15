@@ -1,11 +1,12 @@
 # prosthetic-arm-control
 It is a code to control a prosthetic arm which have Servo motors as actuators, strings to move each fingers, and input devices like EMG sensor and Bluetooth module. 
 ## Picture of the 3D print process of Prosthetic Arm
+### Slicing of the CAD designs 
 ![Prostetic Arm Assembly](pro1.png)
-
-
-## Picture of the assembled Prosthetic Arm
+### 3D printed parts 
 ![Prostetic Arm Assembly](pro2.png)
+## Picture of the assembled Prosthetic Arm
+![Prostetic Arm Assembly](pro3.png)
 
 
 ### Reference 
