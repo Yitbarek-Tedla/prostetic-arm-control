@@ -12,3 +12,4 @@ It is a code to control a prosthetic arm which have Servo motors as actuators, s
 ### Reference 
 The solidworks designs were taken from the opensource site (Minor improvement were made like enlarging the hole diameters so that the strings used would fit in it):
 - https://mdesigns.space/projects/project-three-2jhsa
+- https://grabcad.com/library/prosthetic-arm-9
